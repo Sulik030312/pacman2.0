@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: pacman
-          image: grifon4ik/pacman:latest
+          image: sulik030312/pacman:latest
 
           ports:
             - containerPort: 3000
